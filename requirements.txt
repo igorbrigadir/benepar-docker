@@ -1,0 +1,5 @@
+cython
+numpy
+spacy
+tensorflow[cpu]==1.14
+benepar[cpu]
